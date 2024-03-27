@@ -1,0 +1,152 @@
+[
+  {
+    "id": 0,
+    "name": "hyde",
+    "offset": "0x00057ae0",
+    "exists": true
+  },
+  {
+    "id": 1,
+    "name": "linne",
+    "offset": "0x00057b20",
+    "exists": true
+  },
+  {
+    "id": 2,
+    "name": "waldstein",
+    "offset": "0x00057b60",
+    "exists": true
+  },
+  {
+    "id": 3,
+    "name": "carmine",
+    "offset": "0x00057ba0",
+    "exists": true
+  },
+  {
+    "id": 4,
+    "name": "orie",
+    "offset": "0x00057be0",
+    "exists": true
+  },
+  {
+    "id": 5,
+    "name": "gordeau",
+    "offset": "0x00057c20",
+    "exists": true
+  },
+  {
+    "id": 6,
+    "name": "merkava",
+    "offset": "0x00057c60",
+    "exists": true
+  },
+  {
+    "id": 7,
+    "name": "vatista",
+    "offset": "0x00057ca0",
+    "exists": true
+  },
+  {
+    "id": 8,
+    "name": "seth",
+    "offset": "0x00057ce0",
+    "exists": true
+  },
+  {
+    "id": 9,
+    "name": "yuzuriha",
+    "offset": "0x00057d20",
+    "exists": true
+  },
+  {
+    "id": 10,
+    "name": "hilda",
+    "offset": "0x00057d60",
+    "exists": true
+  },
+  {
+    "id": 15,
+    "name": "chaos",
+    "offset": "0x00057ea0",
+    "exists": true
+  },
+  {
+    "id": 12,
+    "name": "nanase",
+    "offset": "0x00057de0",
+    "exists": true
+  },
+  {
+    "id": 13,
+    "name": "byakuya",
+    "offset": "0x00057e20",
+    "exists": true
+  },
+  {
+    "id": 24,
+    "name": "phonon",
+    "offset": "0x000580e0",
+    "exists": true
+  },
+  {
+    "id": 21,
+    "name": "mika",
+    "offset": "0x00058020",
+    "exists": true
+  },
+  {
+    "id": 16,
+    "name": "wagner",
+    "offset": "0x00057ee0",
+    "exists": true
+  },
+  {
+    "id": 17,
+    "name": "enkidu",
+    "offset": "0x00057f20",
+    "exists": true
+  },
+  {
+    "id": 18,
+    "name": "londrekia",
+    "offset": "0x00057f60",
+    "exists": true
+  },
+  {
+    "id": 19,
+    "name": "tsurugi",
+    "offset": "0x00057fa0",
+    "exists": true
+  },
+  {
+    "id": 22,
+    "name": "kaguya",
+    "offset": "0x00058060",
+    "exists": true
+  },
+  {
+    "id": 23,
+    "name": "kuon",
+    "offset": "0x000580a0",
+    "exists": true
+  },
+  {
+    "id": 11,
+    "name": "eltnum",
+    "offset": "0x00057da0",
+    "exists": true
+  },
+  {
+    "id": 14,
+    "name": "akatsuki",
+    "offset": "0x00057e60",
+    "exists": true
+  },
+  {
+    "id": 20,
+    "name": "???",
+    "offset": "0x00057fe0",
+    "exists": false
+  }
+]

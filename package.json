@@ -1,0 +1,14 @@
+{
+  "name": "uni2sc-custom-color-importer",
+  "version": "1.0.0",
+  "description": "A tool for importing and exporting custom colors",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
